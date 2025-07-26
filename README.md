@@ -26,5 +26,5 @@ I'm a Software Engineer with a background in Computer Science and a strong focus
 ---
 
 ### GitHub Stats 
-![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aqib-005&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-005&layout=compact&theme=tokyonight)
